@@ -21,7 +21,7 @@
 
 - GitHub: [@amon-cofie](https://github.com/amon-cofie)
 - Twitter: [@amon_cofie](https://twitter.com/amon_cofie)
-- LinkedIn: [Amon-Cofie David](www.linkedin.com/in/david-amon-cofie-2389ab241)
+- LinkedIn: [Amon-Cofie David](https://www.linkedin.com/in/david-amon-cofie-2389ab241/)
 
 ## 🤝 Contributing
 
