@@ -9,13 +9,29 @@
 
 ## Getting Started
 
-- Clone this repository to your local computer.
-- Open the "index.html" file with your web browser.
+**how to clone the repository**
 
-**Pre-requisites.**
+- In this repository click on the "code" button (usually highlighted green) above.
+- You can select between either HTTPS or SSH if you have an SSH key linked.
+- Click on the copy icon on the right side of the link provided to copy the link
+- Go to your command line and type "git clone" followed by the link you just copied and press enter
+- The repository should be available locally on your computer.
+- You can change directory into the repository using the 'cd' command: cd "repository name"
 
-- Knowledge of Basic HTML syntax
-- Knowledge of Basic CSS syntax
+**how to open this project**
+
+You can open this project through your code editor. Example, using vscode:
+
+    - Click on file (First button in the menu bar)
+    - Click on "open folder" in the drop down menu
+    - In the dialogue box that opens, navigate to the repository and click select folder.
+    - The project should be open in vscode.
+
+### Pre-requisites
+
+- A code editor should be installed
+- Git should be installed
+- Nodejs should be installed
 
 ## Author
 
