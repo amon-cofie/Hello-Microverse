@@ -13,9 +13,15 @@
 
 ## Getting Started
 
-**Just open it up and check it out.**
+- Clone this repository to your local computer.
+- Open the "index.html" file with your web browser.
 
-## Authors
+**Pre-requisites.**
+
+- Knowledge of Basic HTML syntax
+- Knowledge of Basic CSS syntax
+
+## Author
 
 👤 **Amon-Cofie David**
 
