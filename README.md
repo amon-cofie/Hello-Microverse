@@ -7,10 +7,6 @@
 - HTML and CSS
 - Linters
 
-## Live Demo (if available)
-
-[Live Demo Link](http://192.168.8.100:5500/Hello-Microverse/)
-
 ## Getting Started
 
 - Clone this repository to your local computer.
